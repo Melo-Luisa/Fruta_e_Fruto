@@ -16,7 +16,7 @@
 
 <h2 align="center">Melhorar:</h2
 
-- Fazer uma secund page para agregar as receitas
+- Fazer uma secund page para agregar as receitas.
 ![image](https://user-images.githubusercontent.com/97964206/206586111-9d55d613-c685-4c29-88c0-efa1ac1ca6ef.png)
 
 - Melhorar a interação na parte 'Quem somos', adicionado rede sociais das meninas
@@ -25,9 +25,6 @@
 - Melhorar o rodapé com mais infos, como telefone, endereço, delivry, rede sociais da page.
 ![image](https://user-images.githubusercontent.com/97964206/206586450-aa4023df-946d-4694-839c-95e124deb9f3.png)
 
-<h2 align="center">Informações a mais:</h2>
-- Notebook
-![image](https://user-images.githubusercontent.com/97964206/206587250-6658fcc9-35dd-4e29-981f-46482dc2a916.png)
 
 
  
